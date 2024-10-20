@@ -1,6 +1,5 @@
 # Learning Objectives
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ### Selectors, Properties, and Values
 - Understand how to select HTML elements using various CSS selectors.
